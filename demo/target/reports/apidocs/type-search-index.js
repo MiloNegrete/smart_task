@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Accionable","k":"10"},{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"<Unnamed>","l":"GestorTareas"},{"p":"<Unnamed>","l":"SmartTask"},{"p":"<Unnamed>","l":"Tarea"},{"p":"<Unnamed>","l":"TareaNormal"},{"p":"<Unnamed>","l":"TareaUrgente"}];updateSearchResults();
